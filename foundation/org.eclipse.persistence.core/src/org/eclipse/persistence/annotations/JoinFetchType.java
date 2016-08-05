@@ -27,7 +27,7 @@ public enum JoinFetchType {
     INNER,
 
     /**
-     * An inner join is used to fetch the related object.
+     * An outer join is used to fetch the related object.
      * This allows for null/empty values.
      */
     OUTER,
